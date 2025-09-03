@@ -31,7 +31,11 @@ Some of the key problems I’ve encountered while working with GDevelop:
 
 ## How to Play
 1. Open `game.json` in [GDevelop](https://gdevelop.io/).  
-2. Run the project and experiment with the prototype mini-games.  
+2. Run the project and experiment with the prototype mini-games.
+
+## Screenshots
+![screenshot1](Screenshots/main.png)
+![screenshot2](Screenshots/si.png)
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
