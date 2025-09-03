@@ -29,7 +29,7 @@ Some of the key problems I’ve encountered while working with GDevelop:
 - Game Over Screen and Logic
 - Many more
 
-## How to Play
+## How to Play (soon)
 1. Open `game.json` in [GDevelop](https://gdevelop.io/).  
 2. Run the project and experiment with the prototype mini-games.
 
